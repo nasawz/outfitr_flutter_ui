@@ -23,7 +23,7 @@
 
 | Onboarding 3                                                 | Configuration - Main                                         | Shopping Cart                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![image-20210226150825925](https://user-images.githubusercontent.com/372910/109272682-319aac80-784c-11eb-84b6-faa4094652a7.png) | ![Snipaste_2021-02-26_15-04-53](https://user-images.githubusercontent.com/372910/109272703-365f6080-784c-11eb-9fbb-98b5deaf7edc.png) | ![Snipaste_2021-02-26_15-04-53](https://user-images.githubusercontent.com/372910/109272709-38292400-784c-11eb-82c6-4b1b6b096ec1.png) |
+| ![Snipaste_2021-02-26_15-04-53](https://user-images.githubusercontent.com/372910/109272709-38292400-784c-11eb-82c6-4b1b6b096ec1.png)  | ![Snipaste_2021-02-26_15-04-53](https://user-images.githubusercontent.com/372910/109272703-365f6080-784c-11eb-9fbb-98b5deaf7edc.png) | ![image-20210226150825925](https://user-images.githubusercontent.com/372910/109272682-319aac80-784c-11eb-84b6-faa4094652a7.png)|
 
 
 
