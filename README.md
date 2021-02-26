@@ -1,7 +1,7 @@
 # outfitr
 
 ![iOS](https://img.shields.io/badge/iOS-13%20-blue)
-[![GitHub](https://img.shields.io/github/stars/livinglist/Churu?style=social)](https://img.shields.io/github/stars/livinglist/Churu?style=social)
+[![GitHub](https://img.shields.io/github/stars/nasawz/outfitr_flutter_ui?style=social)](https://img.shields.io/github/stars/nasawz/outfitr_flutter_ui?style=social)
 
 
 
