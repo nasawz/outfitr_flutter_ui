@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
-import 'package:outfitr/app/routes/app_pages.dart';
 
+import 'package:outfitr/app/routes/app_pages.dart';
 import 'package:outfitr/constant.dart';
 
 import '../controllers/configuration_controller.dart';

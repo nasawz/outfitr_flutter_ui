@@ -3,8 +3,8 @@ import 'dart:math' as math;
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
-import 'package:outfitr/app/routes/app_pages.dart';
 
+import 'package:outfitr/app/routes/app_pages.dart';
 import 'package:outfitr/constant.dart';
 
 import '../controllers/home_controller.dart';
